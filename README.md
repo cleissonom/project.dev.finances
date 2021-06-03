@@ -1,3 +1,12 @@
-# dev.finances
 
-That's a app to control your finances, you can see your incomes, expenses and the total.
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Project
+
+Dev.Finance$ is a calculator designed to keep track of your finances, where you can record your capital inflows and outflows. 💰
