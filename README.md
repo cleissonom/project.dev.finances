@@ -2,6 +2,8 @@
   <img alt="WebSite image" src=".github/app.png" width="100%">
 </p>
 
+<hr>
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
